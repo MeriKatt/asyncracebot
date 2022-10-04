@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "discord.js": "^14.5.0",
+    "enmap": "^5.9.2"
+  },
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot for and by MeriKatt while refamiliarizing with javascript",
+  "main": "Main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "MeriKatt",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.24.0"
+  }
+}
